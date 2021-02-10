@@ -80,6 +80,7 @@ package object  canonicalnames {
   val TCPProto = 6
   val IPIPProto = 94
   val ESPProto = 50
+  val GREProto = 47
 
   //IPSEC ESP Header offsets
   val ESPSPIOffset = 0
