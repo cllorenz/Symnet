@@ -1,4 +1,4 @@
-Symnet
+SymNet
 ======
 
 This is a modified fork of [https://github.com/nets-cs-pub-ro/Symnet](https://github.com/nets-cs-pub-ro/Symnet).
@@ -6,6 +6,7 @@ The following modifications were made:
 
  - protocol numbers for ESP and GRE
 
+# Symnet
 
 Symbolic execution for verification of stateful data planes made easy and fast.
 
